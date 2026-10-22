@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#4a2f26"/>
+  <rect x="72" y="72" width="368" height="368" rx="52" fill="#f5e6b9" stroke="#7d4e32" stroke-width="8"/>
+  <text x="256" y="350" font-size="260" font-weight="700" text-anchor="middle" fill="#006400" font-family="Amiri, 'Traditional Arabic', serif">س</text>
+  <text x="388" y="404" font-size="52" font-weight="700" text-anchor="middle" fill="#006400" font-family="sans-serif">1</text>
+</svg>
